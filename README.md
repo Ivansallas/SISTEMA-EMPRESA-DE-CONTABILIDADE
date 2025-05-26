@@ -62,4 +62,15 @@ Este projeto está sendo desenvolvido em conjunto com os alunos do curso de [NOM
 🚧 Em desenvolvimento...
 
 ---
+👨‍👩‍👧‍👦 Equipe
+Nome do aluno
+
+Nome do aluno
+
+Nome do Professor Orientador
+
+📌 Observações
+O sistema será expandido conforme o andamento do trabalho;
+
+Versões futuras poderão incluir ordenação, playlists e exportação de dados.
 
