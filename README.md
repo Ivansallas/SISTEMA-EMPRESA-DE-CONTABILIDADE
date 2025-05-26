@@ -1,6 +1,8 @@
 # Sistema Empresa de Contabilidade
 
-Este é um projeto educacional colaborativo desenvolvido por professores e alunos com o objetivo de simular um sistema básico de gestão contábil, utilizando a linguagem de programação C.
+Este é um projeto educacional colaborativo desenvolvido por professores e 
+alunos com o objetivo de simular um sistema básico de gestão contábil, 
+utilizando a linguagem de programação C.
 
 ## 📌 Objetivo
 
